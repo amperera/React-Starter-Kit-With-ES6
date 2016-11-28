@@ -1,0 +1,30 @@
+{
+  "name": "boilerplate",
+  "version": "1.0.0",
+  "description": "Simple react app with es6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amila",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4",
+    "react": "^15.0.0",
+    "react-dom": "^15.0.0",
+    "react-router": "^3.0.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.17.0",
+    "babel-loader": "^6.2.5",
+    "babel-preset-es2015": "^6.14.0",
+    "babel-preset-react": "^6.11.1",
+    "babel-preset-stage-0": "^6.3.13",
+    "bootstrap": "^3.3.7",
+    "css-loader": "^0.26.0",
+    "jquery": "^3.1.1",
+    "script-loader": "^0.7.0",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.12.14"
+  }
+}
